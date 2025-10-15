@@ -1,0 +1,7 @@
+.git
+.gitignore
+__pycache__/
+secrets/
+.DS_Store
+venv/
+.env

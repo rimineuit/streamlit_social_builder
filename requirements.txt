@@ -1,0 +1,9 @@
+streamlit
+google-genai
+psycopg2-binary
+pandas
+sqlalchemy
+pg8000
+python-dotenv
+google-cloud-storage
+requests
